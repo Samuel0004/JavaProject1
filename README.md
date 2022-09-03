@@ -2,7 +2,7 @@
 
 실행화면
 
-# 메뉴4- 단어 추가
+## 메뉴4- 단어 추가
 
 <img src="https://user-images.githubusercontent.com/112670012/188268132-4a68a0c1-1a35-40d9-99c7-c8b8aaae76fa.PNG" width="500">
 
