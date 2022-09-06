@@ -1,8 +1,15 @@
 # JavaProject1
 
-## 실행화면1
+실행화면
 
-![0](https://user-images.githubusercontent.com/112670012/188266519-8e95d41d-d864-4b33-a390-3649c6421c01.PNG)
-![1](https://user-images.githubusercontent.com/112670012/188264536-a94f0686-867d-4003-b637-6720cb2bbff9.PNG)
-![2](https://user-images.githubusercontent.com/112670012/188264539-eaa598c8-e3f2-4b5e-bc2a-494d76abd1b5.PNG)
-![3](https://user-images.githubusercontent.com/112670012/188264541-7cb39e28-5b69-489a-bec5-b7bdedf38e9e.PNG)
+## 메뉴4- 단어 추가
+
+<img src="https://user-images.githubusercontent.com/112670012/188268132-4a68a0c1-1a35-40d9-99c7-c8b8aaae76fa.PNG" width="500">
+
+## 메뉴1- 모든 단어 보기
+
+<img src="https://user-images.githubusercontent.com/112670012/188268143-e57d7a91-fb44-4509-9d63-84cc170e2f85.PNG" width="500">
+
+## 메뉴0- 나가기 
+
+<img src="https://user-images.githubusercontent.com/112670012/188268154-86bde767-f94a-4e49-ba15-3e53a92296ed.PNG" width="500">
