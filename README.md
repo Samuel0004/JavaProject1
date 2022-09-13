@@ -38,5 +38,6 @@
 
 <img src="https://user-images.githubusercontent.com/112670012/189792132-3beb570d-9254-4844-b357-1029753e344d.PNG" width="500">
 
-
+## 메뉴1- 모든 단어 보기
+<img src="https://user-images.githubusercontent.com/112670012/189800658-4dc6a344-a178-491a-bf61-b6d61d36bfef.PNG" width="500">
 
