@@ -18,3 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/112670012/189786413-e2399242-b4a1-479d-b63e-21e58001a763.PNG" width="500">
 
+## 메뉴3- 단어 검색
+
+<img src="https://user-images.githubusercontent.com/112670012/189787329-a1212fe6-c9f6-4bfe-b25c-8d6610cb6600.PNG" width="500">
