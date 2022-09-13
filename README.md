@@ -34,5 +34,9 @@
 
 <img src="https://user-images.githubusercontent.com/112670012/189791879-ff00c292-4d78-4f99-8ae8-40f5e335eaa3.PNG" width="500">
 
+## 'Dictionary.txt' 파일 내용
+
+<img src="https://user-images.githubusercontent.com/112670012/189792132-3beb570d-9254-4844-b357-1029753e344d.PNG" width="500">
+
 
 
