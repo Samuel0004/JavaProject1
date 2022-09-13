@@ -13,3 +13,8 @@
 ## 메뉴0- 나가기 
 
 <img src="https://user-images.githubusercontent.com/112670012/188268154-86bde767-f94a-4e49-ba15-3e53a92296ed.PNG" width="500">
+
+## 메뉴2- 수준별 단어 보기
+
+<img src="https://user-images.githubusercontent.com/112670012/189786413-e2399242-b4a1-479d-b63e-21e58001a763.PNG" width="500">
+
