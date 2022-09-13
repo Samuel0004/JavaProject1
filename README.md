@@ -30,3 +30,9 @@
 
 <img src="https://user-images.githubusercontent.com/112670012/189790882-eee30620-5671-44d7-a597-8036c0c99d42.PNG" width="500">
 
+## 메뉴7- 파일 저장
+
+<img src="https://user-images.githubusercontent.com/112670012/189791879-ff00c292-4d78-4f99-8ae8-40f5e335eaa3.PNG" width="500">
+
+
+
